@@ -1,7 +1,4 @@
 
-
-
-
 ## Agenda
 
 **See this [Google Map with all Locations](https://mapsengine.google.com/map/edit?mid=zdHs4YEi5Hp0.kaHm4XSQwVCw)!**
@@ -45,4 +42,4 @@ Stresemannstraße 375
 
 You can reach us at orga at uxcamphh dot org an on twitter as @uxcamphh.
 
-Hashtag is 
+Hashtag for Twitter, Flickr, etc is **#uxchh13**.
